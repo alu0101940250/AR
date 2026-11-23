@@ -2,7 +2,7 @@
 
 ## AR
 
-![AR Game Demonstration](ar.gif)
+![AR Game Demonstration](ar_small.gif)
 
 
 ## functionality
@@ -148,7 +148,7 @@ The ScoreManager object contains the `score` script, and its Score Text field is
 
 ## RA
 
-![Demostración del juego de RA](ar.gif)
+![Demostración del juego de RA](ar_small.gif)
 
 ## Funcionalidad
 
